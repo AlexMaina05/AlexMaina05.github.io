@@ -34,6 +34,7 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 ---
 
 ## 🌍 Dove trovarmi
+(Clicca i loghi per scoprire i miei profili social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mainardi-ab812823b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexMaina05)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alex_Maina_)
