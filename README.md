@@ -25,6 +25,8 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+[Premi qui per vedere i miei attuali progetti](/progetti/)
+
 ---
 
 ## ✨ Obiettivi futuri
