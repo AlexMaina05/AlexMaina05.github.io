@@ -6,7 +6,7 @@ permalink: /about/
 
 # 👤 Chi sono  
 
-Ciao! Mi chiamo **Ale** e sono uno studente di **Ingegneria Informatica** con una forte passione per la tecnologia, la programmazione e tutto ciò che riguarda il mondo digitale.  
+Ciao! Mi chiamo **Alessandro** e sono uno studente di **Ingegneria Informatica** con una forte passione per la tecnologia, la programmazione e tutto ciò che riguarda il mondo digitale.  
 
 Il mio percorso di studi mi sta fornendo basi solide in **matematica**, **informatica** e **ingegneria del software**, ma ciò che mi caratterizza è la curiosità di andare oltre i libri e sperimentare concretamente con progetti personali.  
 
