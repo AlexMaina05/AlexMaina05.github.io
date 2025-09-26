@@ -33,6 +33,15 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 
 ---
 
+## 🌍 Dove trovarmi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-mainardi-ab812823b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexMaina05)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alex_Maina_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alessandro_mainardi_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Alex_Maina)
+
+---
+
 ## 📊 Statistiche GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaina05&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaina05&layout=compact&theme=tokyonight)
