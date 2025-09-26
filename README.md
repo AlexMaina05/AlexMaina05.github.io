@@ -10,6 +10,7 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 - 🎓 Studente di ingegneria informatica  
 - 💻 Interessi: programmazione, matematica, algoritmi  
 - 🌱 Attualmente sto imparando: sviluppo web e cloud    
+[Per sapere di più su dime](/about/)
 
 ---
 
