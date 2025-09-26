@@ -26,12 +26,6 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 
 ---
 
-## 📊 Statistiche GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaina05&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaina05&layout=compact&theme=tokyonight)
-
----
-
 ## ✨ Obiettivi futuri
 - 🚀 Contribuire a progetti **open source**  
 - ☁️ Approfondire **cloud computing** e **DevOps**  
