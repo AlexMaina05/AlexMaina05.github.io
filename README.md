@@ -33,4 +33,10 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 
 ---
 
+## 📊 Statistiche GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaina05&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaina05&layout=compact&theme=tokyonight)
+
+---
+
 💡 _"La conoscenza è potere, ma la condivisione della conoscenza è libertà."_  
