@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Ale  
+# 👋 Ciao, sono Alessandro Mainardi
 
 Benvenuto nel mio spazio GitHub!  
 Sono uno studente di **Ingegneria Informatica** e sviluppatore appassionato di tecnologia.  
