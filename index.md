@@ -49,6 +49,8 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Alex_Maina)
 
+Per contattarmi via mail: [maina@alexmaina.dev](mailto:maina@alexmaina.dev)
+
 ---
 
 ## 📊 Statistiche GitHub
