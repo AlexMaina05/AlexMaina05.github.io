@@ -68,3 +68,7 @@ Per contattarmi via mail: [maina@alexmaina.dev](mailto:maina@alexmaina.dev)
 ---
 
 💡 _"La conoscenza è potere, ma la condivisione della conoscenza è libertà."_  
+
+---
+
+[click here for the sitemap](/sitemap.xml/)
