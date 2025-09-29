@@ -39,7 +39,7 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 ---
 
 ## 📚 Le Mie Guide
-- 🌍 Come installare e configurare wordpress su un **sistema Nas (QNAP)**  [ACCEDI ALLA GUIDA](https://alexmaina.dev/Wordpress-Su-Nas/)
+- 🌍 **Puoi accedere ad un elenco completo delle mie guide** [**A QUESTO LINK**](https://alexmaina.dev/Guide/)
 
 ---
 
