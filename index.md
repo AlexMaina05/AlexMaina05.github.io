@@ -20,6 +20,7 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 ---
 
 ## [Portfolio personale](https://alexmaina.dev/portfolio/)
+## [La mia Bio](https://bio.alexmaina.dev)
 
 ---
 
