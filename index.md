@@ -40,7 +40,7 @@ Qui condivido progetti, appunti e piccole idee che crescono con me.
 ---
 
 ## 📚 Le Mie Guide
-- 🌍 **Puoi accedere ad un elenco completo delle mie guide** [**A QUESTO LINK**](https://alexmaina.dev/Guide/)
+- 🌍 **Puoi accedere ad un elenco completo delle mie guide** [**A QUESTO LINK**](https://alexmaina.dev/guide/)
 
 ---
 
