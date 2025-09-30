@@ -3,7 +3,7 @@ layout: default
 title: HOME PAGE
 ---
 
-<link rel="icon" type="image/png" href="/assets/favicon.png">
+<link rel="icon" type="image/png" href="/favicon.png">
 
 #  <img width="60" height="60" alt="Maina" src="https://github.com/user-attachments/assets/d73274a7-ed3f-4748-8a9a-ded4e4214923" /> 👋 Ciao, io sono Alessandro
 
