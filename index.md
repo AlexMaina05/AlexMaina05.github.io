@@ -3,9 +3,6 @@ layout: default
 title: HOME PAGE
 ---
 
-<<!-- FAVICON -->
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-
 #  <img width="60" height="60" alt="Maina" src="https://github.com/user-attachments/assets/d73274a7-ed3f-4748-8a9a-ded4e4214923" /> 👋 Ciao, io sono Alessandro
 
 Benvenuto nel mio spazio GitHub!  
